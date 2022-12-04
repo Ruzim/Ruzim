@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-I am working as a professor in the University of Science and Technology of China (USTC). 
+I am working in the University of Science and Technology of China (USTC). 
 
+It is a lot of fun sharing some interesting codes/files I wrote here.
 
 <!--
 **Ruzim/Ruzim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
