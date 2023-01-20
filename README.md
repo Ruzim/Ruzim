@@ -1,4 +1,4 @@
-### Hi there 👋
+### Happy Year of :rabbit2:
 
 I am working in the University of Science and Technology of China (USTC). 
 
